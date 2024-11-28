@@ -1,0 +1,152 @@
+{
+  "classes": [
+    {
+      "id": "1",
+      "name": "Mathematics"
+    },
+    {
+      "id": "2",
+      "name": "Physics"
+    },
+    {
+      "id": "3",
+      "name": "Computer Science"
+    },
+    {
+      "id": "4",
+      "name": "Chemistry"
+    },
+    {
+      "id": "5",
+      "name": "Literature"
+    },
+    {
+      "id": "6",
+      "name": "Philosophy"
+    }
+  ],
+  "professors": [
+    {
+      "id": "1",
+      "name": "Dr. John Doe"
+    },
+    {
+      "id": "2",
+      "name": "Dr. Jane Smith"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Albert Brown"
+    },
+    {
+      "id": "4",
+      "name": "Dr. Emily Green"
+    },
+    {
+      "id": "5",
+      "name": "Dr. Mark White"
+    },
+    {
+      "id": "6",
+      "name": "Dr. Lisa Black"
+    }
+  ],
+  "seances": [
+    {
+      "id": "1701481373.115911",
+      "day": "Monday",
+      "time": "08:00 - 10:00",
+      "classId": "1",
+      "professorId": "1",
+      "room": "Room381"
+    },
+    {
+      "id": "1701481373.116027",
+      "day": "Monday",
+      "time": "10:00 - 12:00",
+      "classId": "2",
+      "professorId": "2",
+      "room": "Room278"
+    },
+    {
+      "id": "1701481373.11612",
+      "day": "Monday",
+      "time": "14:00 - 16:00",
+      "classId": "3",
+      "professorId": "3",
+      "room": "Room739"
+    },
+    {
+      "id": "1701481373.116144",
+      "day": "Monday",
+      "time": "16:00 - 18:00",
+      "classId": null,
+      "professorId": null,
+      "room": null
+    },
+    {
+      "id": "1701481373.116215",
+      "day": "Tuesday",
+      "time": "12:00 - 14:00",
+      "classId": "5",
+      "professorId": "5",
+      "room": "Room844"
+    },
+    {
+      "id": "1701481373.116259",
+      "day": "Tuesday",
+      "time": "16:00 - 18:00",
+      "classId": "6",
+      "professorId": "6",
+      "room": "Room462"
+    },
+    {
+      "id": "1701481373.116308",
+      "day": "Wednesday",
+      "time": "10:00 - 12:00",
+      "classId": "2",
+      "professorId": "1",
+      "room": "Room383"
+    },
+    {
+      "id": "",
+      "day": "Thursday",
+      "time": "16:00 - 18:00",
+      "classId": "1",
+      "professorId": "1",
+      "room": "rtr"
+    },
+    {
+      "id": "",
+      "day": "Wednesday",
+      "time": "16:00 - 18:00",
+      "classId": "2",
+      "professorId": "1",
+      "room": "4rt"
+    },
+    {
+      "id": "1732797428090",
+      "day": "Wednesday",
+      "time": "08:00 - 10:00",
+      "classId": "1",
+      "professorId": "3",
+      "room": "test salle"
+    },
+    {
+      "id": "1732797457184",
+      "day": "Thursday",
+      "time": "10:00 - 12:00",
+      "classId": "1",
+      "professorId": "3",
+      "room": "test salle2"
+    },
+    {
+      "id": "1732797465405",
+      "day": "Wednesday",
+      "time": "14:00 - 16:00",
+      "classId": "1",
+      "professorId": "3",
+      "room": "test salle2"
+    }
+  ]
+}
